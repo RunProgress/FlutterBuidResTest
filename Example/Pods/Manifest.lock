@@ -1,0 +1,16 @@
+PODS:
+  - FlutterTestHybrid (0.1.0)
+
+DEPENDENCIES:
+  - FlutterTestHybrid (from `../`)
+
+EXTERNAL SOURCES:
+  FlutterTestHybrid:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlutterTestHybrid: a425f65440146d57a93cd272cd4d48f57fc90ddd
+
+PODFILE CHECKSUM: ebc703b17c0eb92c6b8055816b7c72fdf74b0ad8
+
+COCOAPODS: 1.5.3

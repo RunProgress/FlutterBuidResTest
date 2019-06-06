@@ -1,0 +1,22 @@
+{
+  "name": "FlutterTestHybrid",
+  "version": "0.1.0",
+  "summary": "A short description of FlutterTestHybrid.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangxiao/FlutterTestHybrid",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangxiao": "zhangxiao@xiaozhu.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangxiao/FlutterTestHybrid.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FlutterTestHybrid/Classes/**/*"
+}

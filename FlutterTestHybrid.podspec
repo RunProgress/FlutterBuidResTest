@@ -1,3 +1,4 @@
+
 #
 # Be sure to run `pod lib lint FlutterTestHybrid.podspec' to ensure this is a
 # valid spec before submitting.
@@ -31,7 +32,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'FlutterTestHybrid/Classes/**/*'
-  
+  s.vendored_framework = 'FlutterTestHybrid/Framework/*.framework'
   # s.resource_bundles = {
   #   'FlutterTestHybrid' => ['FlutterTestHybrid/Assets/*.png']
   # }
