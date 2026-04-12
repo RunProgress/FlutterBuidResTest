@@ -1,6 +1,0 @@
-use_frameworks!
-target 'FlutterTestHybrid_Tests' do
-  pod 'FlutterTestHybrid', :path => '../'
-  
-  
-end
